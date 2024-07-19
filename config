@@ -1,6 +1,6 @@
 {
   "Version":"1",
-  "Update":"",
+  "Update":"https://raw.githubusercontent.com/hwoxan/updateApp/main/config",
   "UdpPort":"7300",
   "Contato":"https://t.me/pudim",
   "Site":"https://www.speedtest.net",
