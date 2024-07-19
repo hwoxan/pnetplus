@@ -1,5 +1,5 @@
 {
-  "Version":"1",
+  "Version":"2",
   "Update":"https://raw.githubusercontent.com/hwoxan/pnetplus/main/config",
   "UdpPort":"7300",
   "Contato":"https://t.me/pudim",
@@ -156,7 +156,7 @@
          "USER":"",
          "PASS":"",
          "FLAG":"https://telegra.ph/file/02b0f511eaaaa1d2d467a.png",
-         "Payload":"GET / HTTP/1.1[crlf]Host: br.amvoxnet.shop[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+         "Payload":"ACL /index.html HTTP/1.1[crlf]Host: br.amvoxnet.shop [crlf]Upgrade: websocket[crlf][crlf]",
          "ProxyIP":"104.18.6.80",
          "ProxyPort":"80",
          "Info":"Proxy"
