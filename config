@@ -224,12 +224,12 @@
       {
          "Name":"TIM EXPIRADO 3",
          "FLAG":"https://telegra.ph/file/3c676316d18d082d2af0f.png",
-         "Payload":"ACL /wss.hlp HTTP/1.3[crlf]Host: br.amvoxnet.shop[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Atualização[crlf]Cache-Control: no-cache[crlf]@TMYCOMNECTVPN[crlf][crlf]",
-         "ServerIP":"br.amvoxnet.shop", "CheckUser": "http://172.233.17.8:5454/checkUser",
+         "Payload":"ACL /wss.hlp HTTP/1.3[crlf]Host: br.speednet.store[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Atualização[crlf]Cache-Control: no-cache[crlf]@TMYCOMNECTVPN[crlf][crlf]",
+         "ServerIP":"br.speednet.store", "CheckUser": "http://45.140.192.17:5454/checkUser",
          "ServerPort":"80",
          "USER":"",
          "PASS":"",
-         "ProxyIP":"172.233.17.8",
+         "ProxyIP":"45.140.192.17",
          "ProxyPort":"80",
          "Info":"Proxy"
       },
