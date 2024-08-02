@@ -259,7 +259,7 @@
       },
       {
          "Name":"TIM EXPIRADO 6",
-         "ServerIP":"br.amvoxnet.shop", "CheckUser": "http://172.233.17.8:5454/checkUser",
+         "ServerIP":"br.amvoxnet.shop", "CheckUser": "http://157.254.54.39:5454/checkUser",
          "ServerPort":"80",
          "USER":"",
          "PASS":"",
