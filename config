@@ -1,5 +1,5 @@
 {
-  "Version":"3",
+  "Version":"4",
   "Update":"https://raw.githubusercontent.com/hwoxan/pnetplus/main/config",
   "UdpPort":"7300",
   "Contato":"https://t.me/pudim",
@@ -266,6 +266,18 @@
          "FLAG":"https://telegra.ph/file/3c676316d18d082d2af0f.png",
          "Payload":"ACL /index.html HTTP/1.1[crlf]Host: br.amvoxnet.shop [crlf]Upgrade: websocket[crlf][crlf]",
          "ProxyIP":"104.18.33.113",
+         "ProxyPort":"80",
+         "Info":"Proxy"
+      },
+      {
+         "Name":"TIM EXPIRADO 7 TODAS ACIMA",
+         "ServerIP":"br.amvoxnet.shop", "CheckUser": "http://157.254.54.39:5454/checkUser",
+         "ServerPort":"80",
+         "USER":"",
+         "PASS":"",
+         "FLAG":"https://telegra.ph/file/3c676316d18d082d2af0f.png",
+         "Payload":"ACL /index.html HTTP/1.1[crlf]Host: br.amvoxnet.shop [crlf]Upgrade: websocket[crlf][crlf]",
+         "ProxyIP":"104.18.33.113#172.233.17.8#45.140.192.17#104.18.7.41#104.18.7.80#104.18.6.41#104.18.6.80",
          "ProxyPort":"80",
          "Info":"Proxy"
       },
