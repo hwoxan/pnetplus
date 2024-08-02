@@ -1,5 +1,5 @@
 {
-  "Version":"4",
+  "Version":"5",
   "Update":"https://raw.githubusercontent.com/hwoxan/pnetplus/main/config",
   "UdpPort":"7300",
   "Contato":"https://t.me/pudim",
@@ -270,7 +270,7 @@
          "Info":"Proxy"
       },
       {
-         "Name":"TIM EXPIRADO 7 TODAS ACIMA",
+         "Name":"TIM EXPIRADO TODAS ACIMA",
          "ServerIP":"br.amvoxnet.shop", "CheckUser": "http://157.254.54.39:5454/checkUser",
          "ServerPort":"80",
          "USER":"",
