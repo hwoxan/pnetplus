@@ -1,5 +1,5 @@
 {
-  "Version":"6",
+  "Version":"7",
   "Update":"https://raw.githubusercontent.com/hwoxan/pnetplus/main/config",
   "UdpPort":"7300",
   "Contato":"https://t.me/pudim",
@@ -290,6 +290,18 @@
          "FLAG":"https://telegra.ph/file/3c676316d18d082d2af0f.png",
          "Payload":"MOVE / HTTP/1.1[crlf]Host: @ssh_t_project[crlf]Upgrade: websocket[crlf][crlf]#HTTP/ 1[lf]Host: portalrecarga.vivo.com.br;Tim.com.br;xvideos.com;blaze-1.com;sshtproject.com-CDN-GEThttp://ACL-CDN-VIVO.COM.BR;GOOGLE.COM\\n\\n\\n \\n#ACL HTTP/1.1[lf]Host: google.es[lf]#PUT / Cache-Control: private: Web-security[crlf]#ACL buzzfeed.com HTTP/1.1[lf]Host:buzzfeed.com[lf]#ACL / HTTP/1.1[crlf][crlf]#PROPPATCH global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf]#HTTP/ 2[lf]Host: vivo.com#HTTP/1.1 200[crlf]Host: vimeo.com[crlf][crlf][netData][crlf]@mip [crlf][crlf]http://uber.com/ HTTP/1.1 200[crlf]mip[crlf][crlf] [crlf][crlf]http://udemy.com/ HTTP/1.1 200[crlf]Host@mip[crlf][crlf] [crlf][crlf] http://aliyuncs.com/ HTTP/1.1 200[crlf]Host fastly.net/[crlf][crlf][netData][crlf] [crlf][crlf] http://pornhub.com/ HTTP/1.1[crlf] [crlf][crlf][netData][crlf] [crlf][crlf] http://google.com/ HTTP/1.1[cr][lf] [crlf][crlf][netData][cr][lf] [crlf][crlf]CONNECT mip:22@http://youtube.com/ HTTP/1.1[crlf] [crlf][crlf][netData][crlf] [crlf][crlf]",
          "ProxyIP":"157.254.54.39",
+         "ProxyPort":"80",
+         "Info":"Proxy"
+      },
+      {
+         "Name":"TIM EXPIRADO TUDO",
+         "ServerIP":"br.amvoxnet.shop", "CheckUser": "http://157.254.54.39:5454/checkUser",
+         "ServerPort":"80",
+         "USER":"",
+         "PASS":"",
+         "FLAG":"https://telegra.ph/file/3c676316d18d082d2af0f.png",
+         "Payload":"MOVE / HTTP/1.1[crlf]Host: @ssh_t_project[crlf]Upgrade: websocket[crlf][crlf]#HTTP/ 1[lf]Host: portalrecarga.vivo.com.br;Tim.com.br;xvideos.com;blaze-1.com;sshtproject.com-CDN-GEThttp://ACL-CDN-VIVO.COM.BR;GOOGLE.COM\\n\\n\\n \\n#ACL HTTP/1.1[lf]Host: google.es[lf]#PUT / Cache-Control: private: Web-security[crlf]#ACL buzzfeed.com HTTP/1.1[lf]Host:buzzfeed.com[lf]#ACL / HTTP/1.1[crlf][crlf]#PROPPATCH global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf]#HTTP/ 2[lf]Host: vivo.com#HTTP/1.1 200[crlf]Host: vimeo.com[crlf][crlf][netData][crlf]@mip [crlf][crlf]http://uber.com/ HTTP/1.1 200[crlf]mip[crlf][crlf] [crlf][crlf]http://udemy.com/ HTTP/1.1 200[crlf]Host@mip[crlf][crlf] [crlf][crlf] http://aliyuncs.com/ HTTP/1.1 200[crlf]Host fastly.net/[crlf][crlf][netData][crlf] [crlf][crlf] http://pornhub.com/ HTTP/1.1[crlf] [crlf][crlf][netData][crlf] [crlf][crlf] http://google.com/ HTTP/1.1[cr][lf] [crlf][crlf][netData][cr][lf] [crlf][crlf]CONNECT mip:22@http://youtube.com/ HTTP/1.1[crlf] [crlf][crlf][netData][crlf] [crlf][crlf]",
+         "ProxyIP":"157.254.54.39#104.18.33.113#45.140.192.17#104.18.7.41#104.18.7.80#104.18.6.41#104.18.6.80",
          "ProxyPort":"80",
          "Info":"Proxy"
       },
