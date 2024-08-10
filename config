@@ -1,5 +1,5 @@
 {
-  "Version":"9",
+  "Version":"10",
   "Update":"https://raw.githubusercontent.com/hwoxan/pnetplus/main/config",
   "UdpPort":"7300",
   "Contato":"https://t.me/pudim",
@@ -380,7 +380,7 @@
       },
       {
          "Name":"TIM CLOUDFRONT 5",
-         "ServerIP":"frontcloud.starbrasil.shop#frontcloud2.starbrasil.shop#frontcloud3.starbrasil.shop#frontcloud4.starbrasil.shop#frontcloud5.starbrasil.shop#frontcloud6.starbrasil.shop#frontcloud7.starbrasil.shop#frontcloud8.starbrasil.shop#frontcloud9.starbrasil.shop#frontcloud10.starbrasil.shop", 
+         "ServerIP":"d2vjckdawjma3c.cloudfront.net", 
          "CheckUser": "http://186.233.119.196:2052/checkUser",
          "ServerPort":"80",
          "USER":"",
