@@ -1,5 +1,5 @@
 {
-  "Version":"11",
+  "Version":"12",
   "Update":"https://raw.githubusercontent.com/hwoxan/pnetplus/main/config",
   "UdpPort":"7300",
   "Contato":"https://t.me/pudim",
@@ -387,6 +387,18 @@
          "PASS":"",
          "FLAG":"https://telegra.ph/file/3c676316d18d082d2af0f.png",
          "Payload":"GET / HTTP/1.1[crlf]Host: launches.appsflyer.com[crlf] [crlf]GET / HTTP/1.1[lf]Host: d2vjckdawjma3c.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+         "ProxyIP":"launches.appsflyer.com",
+         "ProxyPort":"80",
+         "Info":"Proxy"
+      },
+      {
+         "Name":"TIM CLOUDFRONT 6",
+         "ServerIP":"frontcloud.starbrasil.shop#frontcloud2.starbrasil.shop#frontcloud3.starbrasil.shop#frontcloud4.starbrasil.shop#frontcloud5.starbrasil.shop#frontcloud6.starbrasil.shop#frontcloud7.starbrasil.shop#frontcloud8.starbrasil.shop#frontcloud9.starbrasil.shop#frontcloud10.starbrasil.shop", "CheckUser": "http://186.233.119.196:2052/checkUser",
+         "ServerPort":"80",
+         "USER":"",
+         "PASS":"",
+         "FLAG":"https://telegra.ph/file/3c676316d18d082d2af0f.png",
+         "Payload":"GET / HTTP/1.1[crlf]Host: tim.com.br[lf] [lf]PUT /app979 HTTP/1.1[crlf]Host: frontcloud.starbrasil.shop;frontcloud2.starbrasil.shop;frontcloud3.starbrasil.shop;frontcloud4.starbrasil.shop;frontcloud5.starbrasil.shop;frontcloud6.starbrasil.shop;frontcloud7.starbrasil.shop;frontcloud8.starbrasil.shop;frontcloud9.starbrasil.shop;frontcloud10.starbrasil.shop[crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
          "ProxyIP":"launches.appsflyer.com",
          "ProxyPort":"80",
          "Info":"Proxy"
