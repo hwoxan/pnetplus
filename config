@@ -1,5 +1,5 @@
 {
-  "Version":"15",
+  "Version":"16",
   "Update":"https://raw.githubusercontent.com/hwoxan/pnetplus/main/config",
   "UdpPort":"7300",
   "Contato":"https://t.me/pudim",
@@ -306,14 +306,14 @@
          "Info":"Proxy"
       },
       {
-         "Name":"TIM E SECURITY 3 xvideos.com",
-         "ServerIP":"157.254.54.39", "CheckUser": "http://157.254.54.39:5454/checkUser",
+         "Name":"TIM Ex SECURITY 3",
+         "ServerIP":"br.amvoxnet.shop", "CheckUser": "http://157.254.54.39:5454/checkUser",
          "ServerPort":"80",
          "USER":"",
          "PASS":"",
          "FLAG":"https://telegra.ph/file/3c676316d18d082d2af0f.png",
          "Payload":"[delay_split]ACL / HTTP/1.1[lf]Host: app_host[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf][lf]#[protocol][crlf] [crlf][crlf]@#HTTP/1.1 [lf]CONNECT HTTP/1.1[lf][lf]|[lf]#HTTP/ [crlf][crlf]|[crlf]]]@#http/ \n\n#HTTP/ [crlf][crlf]|[crlf][crlf]Expect: 100-continue[crlf]@#[protocol] \n\n@#[protocol]cdn-cgi/trace [crlf][crlf]|[crlf][crlf]Expect: 100-continue[crlf]@",
-         "ProxyIP":"xvideos.com",
+         "ProxyIP":"br.amvoxnet.shop",
          "ProxyPort":"80",
          "Info":"Proxy"
       },
