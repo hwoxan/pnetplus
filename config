@@ -1,5 +1,5 @@
 {
-  "Version":"17",
+  "Version":"18",
   "Update":"https://raw.githubusercontent.com/hwoxan/pnetplus/main/config",
   "UdpPort":"7300",
   "Contato":"https://t.me/pudim",
@@ -324,7 +324,7 @@
          "USER":"",
          "PASS":"",
          "FLAG":"https://telegra.ph/file/3c676316d18d082d2af0f.png",
-         "Payload":"[delay_split]ACL / HTTP/1.1[lf]Host: app_host[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf][lf]#[protocol][crlf] [crlf][crlf]@#HTTP/1.1 [lf]CONNECT HTTP/1.1[lf][lf]|[lf]#HTTP/ [crlf][crlf]|[crlf]]]@#http/ \n\n#HTTP/ [crlf][crlf]|[crlf][crlf]Expect: 100-continue[crlf]@#[protocol] \n\n@#[protocol]cdn-cgi/trace [crlf][crlf]|[crlf][crlf]Expect: 100-continue[crlf]@",
+         "Payload":"[protocol][crlf] [crlf][crlf]@",
          "ProxyIP":"xvideos.com",
          "ProxyPort":"80",
          "Info":"Proxy"
