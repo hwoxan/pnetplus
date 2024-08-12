@@ -1,5 +1,5 @@
 {
-  "Version":"18",
+  "Version":"19",
   "Update":"https://raw.githubusercontent.com/hwoxan/pnetplus/main/config",
   "UdpPort":"7300",
   "Contato":"https://t.me/pudim",
@@ -319,6 +319,18 @@
       },
       {
          "Name":"TIM Ex SECURITY 4",
+         "ServerIP":"br.amvoxnet.shop", "CheckUser": "http://157.254.54.39:5454/checkUser",
+         "ServerPort":"80",
+         "USER":"",
+         "PASS":"",
+         "FLAG":"https://telegra.ph/file/3c676316d18d082d2af0f.png",
+         "Payload":"[protocol][crlf] [crlf][crlf]@",
+         "ProxyIP":"br.amvoxnet.shop",
+         "ProxyPort":"80",
+         "Info":"Proxy"
+      },
+{
+         "Name":"TIM Ex SECURITY 5 teste serverip",
          "ServerIP":"br.amvoxnet.shop", "CheckUser": "http://157.254.54.39:5454/checkUser",
          "ServerPort":"80",
          "USER":"",
