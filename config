@@ -1,5 +1,5 @@
 {
-  "Version":"21",
+  "Version":"1",
   "Update":"https://raw.githubusercontent.com/hwoxan/pnetplus/main/config",
   "UdpPort":"7300",
   "Contato":"https://t.me/pudim",
@@ -14,7 +14,7 @@
          "Name":"TIM SALDO VALIDO 01",
          "FLAG":"https://telegra.ph/file/02b0f511eaaaa1d2d467a.png",
          "Payload":"HTTP/ [crlf][crlf]|[crlf]#GET /meu-ovo/mole/na-sua/boca/mentiroso/ HTTP/1.1[crlf]Host: timofertas.com[crlf][crlf][split]- /x9 HTTP/1.1[crlf]Host: br.amvoxnet.shop[crlf]Upgrade: Websocket[crlf]@ALNETWORK[crlf][crlf]#GET /cdn-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: br.amvoxnet.shop[crlf]Upgrade: Websocket[crlf][crlf]",
-         "ProxyIP":"134.65.19.83#timofertas.com#apf.maisvantagenstim.com.br#www.terra.com#m.operamini.com#api.sandbox.c6bank.com.br#app.sandbox.c6bank.com.br#mtls",
+         "ProxyIP":"134.65.19.83#timofertas.com#apf.maisvantagenstim.com.br#www.terra.com#m.operamini.com#api.sandbox.c6bank.com.br#app.sandbox.c6bank.com.br",
          "ProxyPort":"80",
          "Info":"Proxy"
       }
