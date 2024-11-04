@@ -17,6 +17,19 @@
          "ProxyIP":"134.65.19.83#timofertas.com#apf.maisvantagenstim.com.br#www.terra.com#m.operamini.com#api.sandbox.c6bank.com.br#app.sandbox.c6bank.com.br",
          "ProxyPort":"80",
          "Info":"Proxy"
+      },
+      {
+         "ServerIP":"br.amvoxnet.shop", 
+         "CheckUser": "http://172.233.17.8:5454/checkUser",
+         "ServerPort":"80",
+         "USER":"",
+         "PASS":"",
+         "Name":"TIM SALDO VALIDO 02",
+         "FLAG":"https://telegra.ph/file/02b0f511eaaaa1d2d467a.png",
+         "Payload":"HTTP/ [crlf][crlf]|[crlf]#GET /cdn-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: br.amvoxnet.shop[crlf]Upgrade: Websocket[crlf][crlf]",
+         "ProxyIP":"134.65.19.83#timofertas.com#apf.maisvantagenstim.com.br#www.terra.com#m.operamini.com#api.sandbox.c6bank.com.br#app.sandbox.c6bank.com.br",
+         "ProxyPort":"80",
+         "Info":"Proxy"
       }
   ]
 }
